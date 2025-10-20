@@ -27,12 +27,6 @@ Step 3 — Analysis & Visualization (Tableau): The cleaned dataset is visualized
 
 View Tableau Dashboard: (add link)
 
-### Pipeline overview
-
-Extract  →  Clean/Transform  →  Store  →  Analyze  →  Visualize
-  ↓              ↓               ↓          ↓           ↓
-Python (NFLReadPy)   Pandas/SQL   SQL Server   SQL Queries   Tableau
-
 ### Outcome
 - End-to-end data pipeline (Python → SQL → Tableau)
 - Modular, readable SQL queries using CTEs

@@ -27,13 +27,18 @@ Step 3 — Analysis & Visualization (Tableau): The cleaned dataset is visualized
 
 View Tableau Dashboard: (add link)
 
-### Highlights
+### Pipeline overview
+
+Extract  →  Clean/Transform  →  Store  →  Analyze  →  Visualize
+  ↓              ↓               ↓          ↓           ↓
+Python (NFLReadPy)   Pandas/SQL   SQL Server   SQL Queries   Tableau
+
+### Outcome
 - End-to-end data pipeline (Python → SQL → Tableau)
 - Modular, readable SQL queries using CTEs
 - NFL team-level weekly data with derived performance metrics
 - Clean integration between Python (extraction) and SQL Server (storage/analysis)
 - Interactive Tableau visualization for storytelling
-
 
 ### Tools:
 | Category      | Tools                                                           |

@@ -25,7 +25,7 @@ Step 3 — Analysis & Visualization (Tableau): The cleaned dataset is visualized
 - Overall total, touchdowns, first downs, yards & avgerage yards per game
 - Comparison between Eagles and opponents
 
-View Tableau Dashboard: (add link)
+[View Tableau Dashboard](https://public.tableau.com/app/profile/lynn.lennmor/viz/NFL_Weekly_Team_stats/Dashboard1?publish=yes)
 
 ### Outcome
 - End-to-end data pipeline (Python → SQL → Tableau)
